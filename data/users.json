@@ -4,5 +4,17 @@
     "username": "demo_admin",
     "password_hash": "scrypt:32768:8:1$2PUJ7GVJflvHAgjo$07b7cab4d36fec25ce217a93ea6d856f527e8087cdab11f33b661fc9528d23953227f2c205bf26e7103704c36bf2a472c4824b5609f144dd5d49d6cc32776b44",
     "role": "user"
+  },
+  {
+    "id": "0cf83537-713f-4110-ac5b-642fff945c35",
+    "username": "admin",
+    "password_hash": "scrypt:32768:8:1$LEHNmqnvGRdHrhPw$9e035d40cf6342e91ace1d34e01a144f6e8f6143d6f6315058376645eb859e5e6820e305298da38ef1f6ae525f42306c778f5445e8e8fdec57924abc7b3ab079",
+    "role": "user"
+  },
+  {
+    "id": "d1f2bba6-f704-4cd7-9e5f-07619c5d54a4",
+    "username": "admin1",
+    "password_hash": "scrypt:32768:8:1$J3NTyN8BvA6Fbh6Z$3b69f11ca078d824a5737bc5b03f9230cd25cd48fadb0f06d8bf788170adb33aa2e9a12b8fd7a318f4eeaa2ddf3e2b90910570796120009a5c83a1b154cce945",
+    "role": "user"
   }
 ]
