@@ -1,0 +1,16 @@
+[
+  {
+    "employee_id": "E001",
+    "first_name": "John",
+    "last_name": "Doe",
+    "gender": "Male",
+    "date_of_birth": "1998-01-01"
+  },
+  {
+    "employee_id": "E002",
+    "first_name": "John",
+    "last_name": "Doe",
+    "gender": "Male",
+    "date_of_birth": "1998-01-01"
+  }
+]
